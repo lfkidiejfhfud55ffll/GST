@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.Python
+
+# ---- 本程序运行时生成的本地状态（不该进仓库）----
+.gst_config.json
+*.log
+
+# ---- 导出产物 / 调试截图 ----
+*_tree.txt
+*_tree.png
+_*.png
+
+# ---- 编辑器 / IDE ----
+.idea/
+.vscode/
+*.suo
+*.swp
+*~
+
+# ---- Windows 杂项 ----
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---- macOS ----
+.DS_Store

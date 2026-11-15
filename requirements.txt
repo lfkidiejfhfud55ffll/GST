@@ -1,0 +1,7 @@
+# GST 运行时依赖（tkinter 随 CPython 自带，不在此列）
+#
+# 安装（清华镜像）：
+#   ..\venv312\Scripts\python.exe -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+
+Pillow>=10.0
+tkinterdnd2>=0.3.0
