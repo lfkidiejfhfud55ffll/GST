@@ -1,6 +1,6 @@
 # GST · 目录结构树生成器
 
-[![CI](https://github.com/<your-name>/gst/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-name>/gst/actions/workflows/ci.yml)
+[![CI](https://github.com/lfkidiejfhfud55ffll/GST/actions/workflows/ci.yml/badge.svg)](https://github.com/lfkidiejfhfud55ffll/GST/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776ab.svg)](https://www.python.org/)
 
